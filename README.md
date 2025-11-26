@@ -1,8 +1,10 @@
+UGV 
+
+
 This project implements a fully integrated tele-operation and sensing system for an Unmanned Ground Vehicle (UGV). 
 The software is written in C++ and follows a modular, object-oriented architecture, where each major subsystem runs as an independent thread under a central Thread Management Module. 
 Shared memory is used to enable safe and efficient inter-thread communication, allowing sensor data, control inputs, and vehicle commands to be exchanged in real time. 
 
-MTRN3500_Assignment_2_2024 (1)
 
 The system interfaces with multiple onboard and simulated hardware components, including:
 
