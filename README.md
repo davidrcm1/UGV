@@ -1,6 +1,7 @@
 UGV 
 
-![Uploading image.png…]()
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/bc938610-f73b-4159-bcc3-e55fd650950c" />
+
 
 This project implements a fully integrated tele-operation and sensing system for an Unmanned Ground Vehicle (UGV). 
 The software is written in C++ and follows a modular, object-oriented architecture, where each major subsystem runs as an independent thread under a central Thread Management Module. 
