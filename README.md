@@ -5,6 +5,7 @@ This project implements a fully integrated tele-operation and sensing system for
 The software is written in C++ and follows a modular, object-oriented architecture, where each major subsystem runs as an independent thread under a central Thread Management Module. 
 Shared memory is used to enable safe and efficient inter-thread communication, allowing sensor data, control inputs, and vehicle commands to be exchanged in real time. 
 
+<img width="788" height="585" alt="image" src="https://github.com/user-attachments/assets/45c55806-dcd7-4f24-b11a-5f8aceb7891d" />
 
 The system interfaces with multiple onboard and simulated hardware components, including:
 
